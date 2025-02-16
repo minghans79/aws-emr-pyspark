@@ -1,4 +1,4 @@
-# AWS Infrastructure as Code (IaC) for ETL Job on `meta_Kindle_Store.jsonl.7z`
+# AWS Infrastructure as Code (IaC) for ETL Job on Kindle Store Meta Data
 
 This repository contains an **AWS Infrastructure as Code (IaC)** solution that uses **boto3** to automate the setup of AWS resources and perform an **Extract, Transform, Load (ETL)** job on the `meta_Kindle_Store.jsonl.7z` dataset.
 
